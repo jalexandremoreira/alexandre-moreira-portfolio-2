@@ -4,7 +4,7 @@ const projects = [
     name: "Harry Potter Quiz Web App",
     img: "/images/HP-quiz.png",
     description:
-      "This is a made-for-fun project where you test your knowledge of Harry Potter, and (hopefully) chuckle at silly pop culture references. Interesting features to point out: a loading bar that animates once you choose an answer, randomly displayed questions with increasing level of difficulty, and perhaps the prettiest web app I've developed (not being a designer).",
+      "This is a made-for-fun project where you test your knowledge of Harry Potter and (hopefully) chuckle at silly pop culture references. Interesting features to point out: a loading bar that animates once you choose an answer, randomly displayed questions with increasing level of difficulty, and perhaps the prettiest web app I've developed (not being a designer).",
     link: "https://harry-potter-quiz.now.sh/home",
   },
   {
