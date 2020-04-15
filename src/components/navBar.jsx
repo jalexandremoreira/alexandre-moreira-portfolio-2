@@ -15,7 +15,7 @@ const NavBar = () => {
           <span>
             <a
               className="navbar-icons"
-              href="https://github.com/jalexandremoreira"
+              href="https://www.linkedin.com/in/alexandre-moreira-126095b6/"
               target="_blank"
               style={{ marginRight: "15px" }}
             >
@@ -23,7 +23,7 @@ const NavBar = () => {
             </a>
             <a
               className="navbar-icons"
-              href="https://www.linkedin.com/in/alexandre-moreira-126095b6/"
+              href="https://github.com/jalexandremoreira"
               target="_blank"
             >
               <i className="fab fa-github"></i>
