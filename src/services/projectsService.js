@@ -4,7 +4,7 @@ const projects = [
     name: "Harry Potter Quiz Web App",
     img: "/images/HP-quiz.png",
     description:
-      "This is a made-for-fun project where you test your knowledge of Harry Potter and (hopefully) chuckle at silly pop culture references. Interesting features to point out: a loading bar that animates once you choose an answer, randomly displayed questions with increasing level of difficulty, and perhaps the prettiest web app I've developed (not being a designer).",
+      "This is a made-for-fun project, built using React.js, where you test your knowledge of Harry Potter and (hopefully) chuckle at silly pop culture references. Interesting features to point out: a loading bar that animates once you choose an answer, randomly displayed questions with increasing level of difficulty, and perhaps the prettiest web app I've developed (not being a designer).",
     link: "https://harry-potter-quiz.now.sh/home",
   },
   {
@@ -12,7 +12,7 @@ const projects = [
     name: "Match Match Web App",
     img: "/images/match-match-website.png",
     description:
-      "This is a small web app, or game, where you try to match a pair of cards. It's a classic little game, and not a particularly complex one, but still a fun side-project for figuring out a few different programming “problems”.",
+      "This is a small web app, built using React.js, where you try to match a pair of cards. It's a classic little game, and not a particularly complex one, but still a fun side-project for figuring out a few different programming “problems”.",
     link: "https://flip-card-game.now.sh/",
   },
   {
