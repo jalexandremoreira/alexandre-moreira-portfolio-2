@@ -8,7 +8,7 @@ const LandingPage = () => {
       <h3 className="landing-page-h3">Web Development Portfolio</h3>
       <p id="landing-page-link">
         <Link to="/projects" style={{ fontStyle: "italic" }}>
-          Click here to start the quiz.
+          Click here to view the projects.
         </Link>
       </p>
     </div>
