@@ -6,13 +6,10 @@ const LandingPage = () => {
     <div>
       <h1 className="landing-page-h1">Alexandre Moreira</h1>
       <h3 className="landing-page-h3">Web Development Portfolio</h3>
-
       <p id="landing-page-link">
-        {/* Click{" "} */}
         <Link to="/projects" style={{ fontStyle: "italic" }}>
-          Click here to browse the portfolio.
-        </Link>{" "}
-        {/* to start the quiz. */}
+          Click here to start the quiz.
+        </Link>
       </p>
     </div>
   );

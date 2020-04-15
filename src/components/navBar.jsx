@@ -17,7 +17,6 @@ const NavBar = () => {
               className="navbar-icons"
               href="https://github.com/jalexandremoreira"
               target="_blank"
-              rel="noopener noreferrer"
               style={{ marginRight: "15px" }}
             >
               <i className="fab fa-linkedin-in"></i>
@@ -26,7 +25,6 @@ const NavBar = () => {
               className="navbar-icons"
               href="https://www.linkedin.com/in/alexandre-moreira-126095b6/"
               target="_blank"
-              rel="noopener noreferrer"
             >
               <i className="fab fa-github"></i>
             </a>

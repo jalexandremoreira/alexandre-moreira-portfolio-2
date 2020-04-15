@@ -11,11 +11,6 @@ const ProjectPage = ({ match }) => {
         <div className="col-md-5 col-sm-12">
           <h1 className="project-page-title">{project.name}</h1>
           <p className="project-page-description">{project.description}</p>
-          {/* <Link to={`/projects`}>
-            <div className="project-page-button">
-              <i className="fas fa-chevron-circle-left"></i>
-            </div>
-          </Link> */}
         </div>
         <div className="col-md-7 col-sm-12">
           <a href={project.link} target="_blank">
