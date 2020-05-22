@@ -1,5 +1,12 @@
 const projects = [
   {
+    id: "p0006",
+    name: "Chocolate E-Shop",
+    img: "/images/chocolate-eshop.png",
+    description: `This was originally commissioned as an eshop capable product website. The initial project wasn’t finished, so I repurposed it for a generic, portfolio showpiece. It’s built using React.js and Redux for session persistence in the shopping cart. It also features a form in the “Enterprise” page, originally intended for bulk purchase and enterprise branding.`,
+    link: "https://chocolate-eshop.now.sh/",
+  },
+  {
     id: "p0005",
     name: "Journalist Portfolio",
     img: "/images/john-doe-website.png",
@@ -19,8 +26,7 @@ const projects = [
     id: "p0003",
     name: "Match Match Web App",
     img: "/images/match-match-website.png",
-    description:
-      "This is a small web app, built using React.js, where you try to match a pair of cards. It's a classic little game, and not a particularly complex one, but still a fun side-project for figuring out a few different programming “problems”.",
+    description: `This is a small web app, built using React.js, where you try to match a pair of cards. It's a classic little game, and not a particularly complex one, but still a fun side-project for figuring out a few different programming “problems”.`,
     link: "https://flip-card-game.now.sh/",
   },
   // {
