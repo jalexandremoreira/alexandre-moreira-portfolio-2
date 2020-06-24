@@ -6,14 +6,14 @@ const projects = [
     description: `This was originally commissioned as an eshop capable product website. The initial project wasn’t finished, so I repurposed it for a generic, portfolio showpiece. It’s built using React.js and Redux for session persistence in the shopping cart. It also features a form in the “Enterprise” page, originally intended for bulk purchase and enterprise branding.`,
     link: "https://chocolate-eshop.now.sh/",
   },
-  {
-    id: "p0005",
-    name: "Journalist Portfolio",
-    img: "/images/john-doe-website.png",
-    description:
-      "This website was originally commissioned by a journalist to showcase their portfolio. It's a no-nonsense, to the point, simple website that focuses on having a professional and elegant look, while still keeping it not-too-formal with a playful gradient background. It also features an “Updates & News” section, that essentially functions as a blog. The website was built with React.js.",
-    link: "https://journalist-portfolio.now.sh/",
-  },
+  // {
+  //   id: "p0005",
+  //   name: "Journalist Portfolio",
+  //   img: "/images/john-doe-website.png",
+  //   description:
+  //     "This website was originally commissioned by a journalist to showcase their portfolio. It's a no-nonsense, to the point, simple website that focuses on having a professional and elegant look, while still keeping it not-too-formal with a playful gradient background. It also features an “Updates & News” section, that essentially functions as a blog. The website was built with React.js.",
+  //   link: "https://journalist-portfolio.now.sh/",
+  // },
   {
     id: "p0004",
     name: "Harry Potter Quiz Web App",
@@ -29,14 +29,14 @@ const projects = [
     description: `This is a small web app, built using React.js, where you try to match a pair of cards. It's a classic little game, and not a particularly complex one, but still a fun side-project for figuring out a few different programming “problems”.`,
     link: "https://flip-card-game.now.sh/",
   },
-  // {
-  //   id: "p0002",
-  //   name: "Ruben Dieleman Website",
-  //   img: "/images/ruben-website.png",
-  //   description:
-  //     "This website was built to showcase Ruben Dieleman's journalistic portfolio. It's a no-nonsense, to the point, simple website that focuses on having a professional and elegant look, while still keeping it not-too-formal with a playful gradient background. It also features an “Updates & News” section, that essentially functions as a blog. The website was built with React.js.",
-  //   link: "https://www.rubendieleman.com/",
-  // },
+  {
+    id: "p0002",
+    name: "Ruben Dieleman Website",
+    img: "/images/ruben-website.png",
+    description:
+      "This website was built to showcase Ruben Dieleman's journalistic portfolio. It's a no-nonsense, to the point, simple website that focuses on having a professional and elegant look, while still keeping it not-too-formal with a playful gradient background. It also features an “Updates & News” section, that essentially functions as a blog. The website was built with React.js.",
+    link: "https://www.rubendieleman.com/",
+  },
   {
     id: "p0001",
     name: "Alexandre Moreira Music Portfolio",
