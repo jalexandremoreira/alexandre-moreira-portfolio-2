@@ -1,19 +1,19 @@
 const projects = [
   {
     id: "p0006",
+    name: "Lúca Silva Website",
+    img: "/images/lucia-website.png",
+    description:
+      "Lúcia Silva is an orchestral musician, so this website was built around demonstrating her skills and work experience, while displaying her contact information professionally yet in a relaxed manner. It’s a straight forward React.js project, with no bells and whistles, instead focusing on functionality and ease-of-use in mind.",
+    link: "https://luciavianadasilva.com/",
+  },
+  {
+    id: "p0005",
     name: "Chocolate E-Shop",
     img: "/images/chocolate-eshop.png",
     description: `This was originally commissioned as an eshop capable product website. The initial project wasn’t finished, so I repurposed it for a generic, portfolio showpiece. It’s built using React.js and Redux for session persistence in the shopping cart. It also features a form in the “Enterprise” page, originally intended for bulk purchase and enterprise branding.`,
     link: "https://chocolate-eshop.now.sh/",
   },
-  // {
-  //   id: "p0005",
-  //   name: "Journalist Portfolio",
-  //   img: "/images/john-doe-website.png",
-  //   description:
-  //     "This website was originally commissioned by a journalist to showcase their portfolio. It's a no-nonsense, to the point, simple website that focuses on having a professional and elegant look, while still keeping it not-too-formal with a playful gradient background. It also features an “Updates & News” section, that essentially functions as a blog. The website was built with React.js.",
-  //   link: "https://journalist-portfolio.now.sh/",
-  // },
   {
     id: "p0004",
     name: "Harry Potter Quiz Web App",
