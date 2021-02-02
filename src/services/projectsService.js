@@ -1,6 +1,14 @@
 const projects = [
   {
     id: "p0006",
+    name: "Alexandre Moreira Music Portfolio",
+    img: "/images/alexandre-website-2.png",
+    description:
+      "I decided to rebuild my own music portfolio. The original website was my first big React.js project, so I feld like I could make some major improvements. Here you can view the albums and singles I have worked on as a Music Producer and as a Sound Engineer. It features an updatable discography page that dynamically creates a page for each record one clicks on, automatically populating that page with the relevant information. Special emphasis on how the site was built entirely without the aid of Bootstrap or any other CSS framework, but instead each component was carefully developed with both desktop and mobile browsers in mind, and heavily relying on CSS's flexbox layout.",
+    link: "https://alexandremoreira.se/",
+  },
+  {
+    id: "p0006",
     name: "Lúca Silva Website",
     img: "/images/lucia-website.png",
     description:
@@ -37,14 +45,14 @@ const projects = [
       "This website was built to showcase Ruben Dieleman's journalistic portfolio. It's a no-nonsense, to the point, simple website that focuses on having a professional and elegant look, while still keeping it not-too-formal with a playful gradient background. It also features an “Updates & News” section, that essentially functions as a blog. The website was built with React.js.",
     link: "https://www.rubendieleman.com/",
   },
-  {
-    id: "p0001",
-    name: "Alexandre Moreira Music Portfolio",
-    img: "/images/alexandre-website.png",
-    description:
-      "This website was my first big React.js project, and was built to showcase my own music portfolio. Here you can view the albums and singles I have worked on as a Music Producer and as a Sound Engineer. It features an updatable discography page that dynamically creates a page for each record one clicks on, automatically populating that page with the relevant information.",
-    link: "https://alexandremoreira.se/",
-  },
+  // {
+  //   id: "p0001",
+  //   name: "Alexandre Moreira Music Portfolio",
+  //   img: "/images/alexandre-website.png",
+  //   description:
+  //     "This website was my first big React.js project, and was built to showcase my own music portfolio. Here you can view the albums and singles I have worked on as a Music Producer and as a Sound Engineer. It features an updatable discography page that dynamically creates a page for each record one clicks on, automatically populating that page with the relevant information.",
+  //   link: "https://alexandremoreira.se/",
+  // },
 ];
 
 export const getProjects = () => {
